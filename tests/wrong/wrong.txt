@@ -1,0 +1,24 @@
+-----1-----
+
+line 1: unrecognizable line
+line 3: invalid extern
+line 6: MAIN is invalid label
+line 6:invalid operands
+line 11: unrecognizable line
+line 13:invalid operands
+line 14:invalid operands
+line 25: invalid entry
+file: 1.as has failed to compile due to errors therefore no output was created
+
+-----2-----
+
+line 11: unrecognizable line
+line 13:invalid operands
+line 14:invalid operands
+line 17:invalid operands
+line 19: invalid string
+line 19: invalid string
+line 20: is not a number!
+line 21: invalid commas!
+file: 2.as has failed to compile due to errors therefore no output was created
+
